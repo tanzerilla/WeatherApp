@@ -5,6 +5,9 @@
 body {
 	font-family: "Open Sans", serif;
 }
+.container {
+	width: 100%;
+}
 
 .wrapper {
 	background: rgba(0, 0, 60, 0);
